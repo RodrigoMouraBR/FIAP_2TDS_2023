@@ -1,0 +1,12 @@
+C:\Users\rodri\source\repos\DEMO_FIAP\src\Fiap.Domain\bin\Debug\net6.0\Fiap.Domain.deps.json
+C:\Users\rodri\source\repos\DEMO_FIAP\src\Fiap.Domain\bin\Debug\net6.0\Fiap.Domain.dll
+C:\Users\rodri\source\repos\DEMO_FIAP\src\Fiap.Domain\bin\Debug\net6.0\Fiap.Domain.pdb
+C:\Users\rodri\source\repos\DEMO_FIAP\src\Fiap.Domain\obj\Debug\net6.0\Fiap.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rodri\source\repos\DEMO_FIAP\src\Fiap.Domain\obj\Debug\net6.0\Fiap.Domain.AssemblyInfoInputs.cache
+C:\Users\rodri\source\repos\DEMO_FIAP\src\Fiap.Domain\obj\Debug\net6.0\Fiap.Domain.AssemblyInfo.cs
+C:\Users\rodri\source\repos\DEMO_FIAP\src\Fiap.Domain\obj\Debug\net6.0\Fiap.Domain.csproj.CoreCompileInputs.cache
+C:\Users\rodri\source\repos\DEMO_FIAP\src\Fiap.Domain\obj\Debug\net6.0\Fiap.Domain.dll
+C:\Users\rodri\source\repos\DEMO_FIAP\src\Fiap.Domain\obj\Debug\net6.0\refint\Fiap.Domain.dll
+C:\Users\rodri\source\repos\DEMO_FIAP\src\Fiap.Domain\obj\Debug\net6.0\Fiap.Domain.pdb
+C:\Users\rodri\source\repos\DEMO_FIAP\src\Fiap.Domain\obj\Debug\net6.0\ref\Fiap.Domain.dll
+C:\Users\rodri\source\repos\DEMO_FIAP\src\Fiap.Domain\obj\Debug\net6.0\Fiap.Domain.csproj.AssemblyReference.cache

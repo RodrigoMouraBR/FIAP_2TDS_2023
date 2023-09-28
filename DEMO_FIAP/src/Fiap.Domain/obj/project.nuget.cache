@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "fLXYEWi00St2Azusil32XYZSpZZkT+8//pZ+oxza5G2qRnw19B28T+r6qEAmtxLm1mJRhYstVG6nymHB0rCrEg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\rodri\\source\\repos\\DEMO_FIAP\\src\\Fiap.Domain\\Fiap.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rodri\\.nuget\\packages\\fluentvalidation\\11.7.1\\fluentvalidation.11.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}

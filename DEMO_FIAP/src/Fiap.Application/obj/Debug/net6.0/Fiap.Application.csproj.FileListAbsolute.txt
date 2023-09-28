@@ -1,0 +1,17 @@
+C:\Users\rodri\source\repos\DEMO_FIAP\src\Fiap.Application\bin\Debug\net6.0\Fiap.Application.deps.json
+C:\Users\rodri\source\repos\DEMO_FIAP\src\Fiap.Application\bin\Debug\net6.0\Fiap.Application.dll
+C:\Users\rodri\source\repos\DEMO_FIAP\src\Fiap.Application\bin\Debug\net6.0\Fiap.Application.pdb
+C:\Users\rodri\source\repos\DEMO_FIAP\src\Fiap.Application\bin\Debug\net6.0\Fiap.Data.dll
+C:\Users\rodri\source\repos\DEMO_FIAP\src\Fiap.Application\bin\Debug\net6.0\Fiap.Domain.dll
+C:\Users\rodri\source\repos\DEMO_FIAP\src\Fiap.Application\bin\Debug\net6.0\Fiap.Data.pdb
+C:\Users\rodri\source\repos\DEMO_FIAP\src\Fiap.Application\bin\Debug\net6.0\Fiap.Domain.pdb
+C:\Users\rodri\source\repos\DEMO_FIAP\src\Fiap.Application\obj\Debug\net6.0\Fiap.Application.csproj.AssemblyReference.cache
+C:\Users\rodri\source\repos\DEMO_FIAP\src\Fiap.Application\obj\Debug\net6.0\Fiap.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rodri\source\repos\DEMO_FIAP\src\Fiap.Application\obj\Debug\net6.0\Fiap.Application.AssemblyInfoInputs.cache
+C:\Users\rodri\source\repos\DEMO_FIAP\src\Fiap.Application\obj\Debug\net6.0\Fiap.Application.AssemblyInfo.cs
+C:\Users\rodri\source\repos\DEMO_FIAP\src\Fiap.Application\obj\Debug\net6.0\Fiap.Application.csproj.CoreCompileInputs.cache
+C:\Users\rodri\source\repos\DEMO_FIAP\src\Fiap.Application\obj\Debug\net6.0\Fiap.Application.csproj.CopyComplete
+C:\Users\rodri\source\repos\DEMO_FIAP\src\Fiap.Application\obj\Debug\net6.0\Fiap.Application.dll
+C:\Users\rodri\source\repos\DEMO_FIAP\src\Fiap.Application\obj\Debug\net6.0\refint\Fiap.Application.dll
+C:\Users\rodri\source\repos\DEMO_FIAP\src\Fiap.Application\obj\Debug\net6.0\Fiap.Application.pdb
+C:\Users\rodri\source\repos\DEMO_FIAP\src\Fiap.Application\obj\Debug\net6.0\ref\Fiap.Application.dll
